@@ -34,7 +34,7 @@ Aqui está um diagrama da arquitetura do projeto:
 - **CodeBuild**: Para compilar e testar o código durante o processo de CI/CD.
 
 ## Créditos
-Este projeto foi desenvolvido com o apoio e orientação do [The Cloud Bootcamp](https://thecloudbootcamp.com/pt/). Agradecemos pelo excelente curso e pelo suporte durante toda a implementação.
+Este projeto foi desenvolvido com o apoio e orientação do [The Cloud Bootcamp](https://thecloudbootcamp.com/pt/). Agradeço pelo excelente curso e pelo suporte durante toda a implementação.
 
 ## Contato
 Para mais informações, entre em contato via [LinkedIn](https://www.linkedin.com/in/walax-azevedo-brandao-2483a6212/).
